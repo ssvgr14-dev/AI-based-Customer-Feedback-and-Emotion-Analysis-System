@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<h1>Customer feedback analytics</h1>
+
+<section class="kpis">
+  <div class="kpi"><span>Total feedback</span><b>{{ stats.total }}</b></div>
+  <div class="kpi"><span>Positive</span><b>{{ stats.sentiment_pct.Positive }}%</b></div>
+  <div class="kpi"><span>Neutral</span><b>{{ stats.sentiment_pct.Neutral }}%</b></div>
+  <div class="kpi"><span>Negative</span><b>{{ stats.sentiment_pct.Negative }}%</b></div>
+  <div class="kpi alert"><span>High priority</span><b>{{ stats.high_priority }}</b></div>
+  <div class="kpi"><span>Top complaint</span><b class="small">{{ stats.top_complaint }}</b></div>
+</section>
+
+{% if stats.total %}
+<section class="charts">
+  <div class="panel"><h2>Sentiment</h2><canvas id="cSent"></canvas></div>
+  <div class="panel"><h2>Emotion</h2><canvas id="cEmo"></canvas></div>
+  <div class="panel"><h2>Category</h2><canvas id="cCat"></canvas></div>
+</section>
+{% else %}
+<div class="panel empty">No feedback yet. <a href="{{ url_for('index') }}">Analyze your first comment</a> or upload a CSV below.</div>
+{% endif %}
+
+<section class="panel">
+  <div class="row spread">
+    <h2>Feedback log</h2>
+    <form class="row" method="get">
+      <select name="priority" aria-label="Priority">
+        <option value="">All priorities</option>
+        {% for p in ['High','Medium','Low'] %}<option {{ 'selected' if p == priority }}>{{ p }}</option>{% endfor %}
+      </select>
+      <select name="sentiment" aria-label="Sentiment">
+        <option value="">All sentiments</option>
+        {% for s in ['Positive','Neutral','Negative'] %}<option {{ 'selected' if s == sentiment }}>{{ s }}</option>{% endfor %}
+      </select>
+      <button type="submit">Filter</button>
+    </form>
+  </div>
+
+  {% if rows %}
+  <div class="scroll">
+    <table>
+      <thead><tr><th>Feedback</th><th>Sentiment</th><th>Emotion</th><th>Category</th><th>Priority</th><th>Date</th><th></th></tr></thead>
+      <tbody>
+      {% for r in rows %}
+        <tr>
+          <td class="text">{{ r.text }}</td>
+          <td><span class="badge s-{{ r.sentiment }}">{{ r.sentiment }}</span></td>
+          <td>{{ EMOJI.get(r.emotion, '') }} {{ r.emotion }}</td>
+          <td>{{ r.category }}</td>
+          <td><span class="badge p-{{ r.priority }}">{{ r.priority }}</span></td>
+          <td>{{ r.created_at }}</td>
+          <td><form method="post" action="{{ url_for('delete', item_id=r.id) }}"><button class="link" aria-label="Delete entry">Delete</button></form></td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  {% else %}
+  <p class="muted">No entries match this filter.</p>
+  {% endif %}
+
+  <div class="row tools">
+    <form method="post" action="{{ url_for('upload') }}" enctype="multipart/form-data" class="row">
+      <input type="file" name="file" accept=".csv" required aria-label="CSV file with a feedback column">
+      <button type="submit">Upload CSV</button>
+    </form>
+    <a class="btn" href="{{ url_for('export_csv') }}">Export CSV</a>
+    <form method="post" action="{{ url_for('clear') }}" onsubmit="return confirm('Delete all feedback?');">
+      <button class="danger">Clear all</button>
+    </form>
+  </div>
+</section>
+
+{% if stats.total %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script>
+  const stats = {{ stats|tojson }};
+  const colors = {Positive:'#15803d', Neutral:'#6b7280', Negative:'#b42318'};
+  const palette = ['#0f766e','#b45309','#4338ca','#be185d','#0369a1','#65a30d','#7c3aed'];
+  new Chart(document.getElementById('cSent'), {type:'doughnut',
+    data:{labels:Object.keys(stats.sentiment), datasets:[{data:Object.values(stats.sentiment),
+      backgroundColor:Object.keys(stats.sentiment).map(k => colors[k])}]}});
+  new Chart(document.getElementById('cEmo'), {type:'bar',
+    data:{labels:Object.keys(stats.emotion), datasets:[{data:Object.values(stats.emotion), backgroundColor:palette}]},
+    options:{plugins:{legend:{display:false}}}});
+  new Chart(document.getElementById('cCat'), {type:'bar',
+    data:{labels:Object.keys(stats.category), datasets:[{data:Object.values(stats.category), backgroundColor:'#0f766e'}]},
+    options:{indexAxis:'y', plugins:{legend:{display:false}}}});
+</script>
+{% endif %}
+{% endblock %}

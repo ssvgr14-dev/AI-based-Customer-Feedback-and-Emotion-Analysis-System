@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block title %}Analyze feedback{% endblock %}
+{% block content %}
+<section class="panel">
+  <h1>Analyze customer feedback</h1>
+  <p class="muted">Paste a review or complaint. The system predicts sentiment, emotion, category and priority.</p>
+  <form method="post" action="{{ url_for('analyze') }}">
+    <label for="feedback">Customer feedback</label>
+    <textarea id="feedback" name="feedback" rows="5" maxlength="2000" required
+      placeholder="I ordered my phone 10 days ago and it still hasn't arrived. Very disappointing!">{{ text }}</textarea>
+    <div class="row">
+      <button type="submit">Analyze feedback</button>
+      <span class="muted">Try:</span>
+      <button type="button" class="chip" data-s="My order has been delayed for two weeks!">Delayed order</button>
+      <button type="button" class="chip" data-s="The product is excellent. I really love it!">Happy customer</button>
+      <button type="button" class="chip" data-s="I haven't received my refund yet.">Refund</button>
+    </div>
+  </form>
+</section>
+
+{% if result %}
+<section class="panel result">
+  <div class="row spread">
+    <h2>Analysis result</h2>
+    <span class="badge p-{{ result.priority }}">{{ result.priority }} priority</span>
+  </div>
+  <dl class="grid">
+    <div><dt>Sentiment</dt><dd><span class="badge s-{{ result.sentiment }}">{{ result.sentiment }}</span>
+      <small>{{ (result.confidence_detail.sentiment * 100)|round|int }}%</small></dd></div>
+    <div><dt>Emotion</dt><dd>{{ EMOJI.get(result.emotion, '') }} {{ result.emotion }}
+      <small>{{ (result.confidence_detail.emotion * 100)|round|int }}%</small></dd></div>
+    <div><dt>Category</dt><dd>{{ CATEGORY_ICON.get(result.category, '') }} {{ result.category }}
+      <small>{{ (result.confidence_detail.category * 100)|round|int }}%</small></dd></div>
+    <div><dt>Priority score</dt><dd>{{ result.priority_score }}</dd></div>
+  </dl>
+  <p class="action">
+    {% if result.priority == 'High' %}Escalate to the <b>{{ result.category }}</b> team and reply today.
+    {% elif result.priority == 'Medium' %}Queue for the <b>{{ result.category }}</b> team this week.
+    {% else %}No action needed. Track it in the dashboard trends.{% endif %}
+  </p>
+</section>
+{% endif %}
+
+<script>
+  document.querySelectorAll('.chip').forEach(function (b) {
+    b.addEventListener('click', function () { document.getElementById('feedback').value = b.dataset.s; });
+  });
+</script>
+{% endblock %}

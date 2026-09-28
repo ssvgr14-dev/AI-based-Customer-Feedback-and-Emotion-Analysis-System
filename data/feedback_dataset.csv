@@ -1,0 +1,579 @@
+text,sentiment,emotion,category
+I'm afraid the payment for my laptop went to the wrong account.,Negative,Fear,Payment
+"You charged my card twice and nobody will fix it, this is outrageous!",Negative,Anger,Payment
+Update: I'm disappointed that the app keeps freezing on my phone. Please note this.,Negative,Sadness,Technical Problem
+"Hi team, The tracking page says my headphones is out for delivery. Please note this.",Neutral,Neutral,Delivery
+"Wow, my shoes arrived much earlier than I expected! That is my experience.",Positive,Surprise,Delivery
+Love how fast and smooth the app is after the update! That is my experience.,Positive,Joy,Technical Problem
+"Honestly, I didn't expect such great build quality, impressive! Please note this.",Positive,Surprise,Product Quality
+"Hi team, Wow, the jacket is much cheaper than I expected!",Positive,Surprise,Pricing
+"To be clear, Nobody replies to my complaints, this service is unacceptable! Just sharing my feedback.",Negative,Anger,Customer Service
+"Hi team, It's sad that the website never loads properly for me. Just sharing my feedback.",Negative,Sadness,Technical Problem
+"Honestly, I'm scared the return pickup won't happen and I'll lose my money. That is my experience.",Negative,Fear,Refund/Return
+"Honestly, The support agent was rude and hung up on me, I'm furious!",Negative,Anger,Customer Service
+"I'm disappointed, the headphones is too expensive for me now. That is my experience.",Negative,Sadness,Pricing
+"Honestly, The support agent was rude and hung up on me, I'm furious! That is my experience.",Negative,Anger,Customer Service
+"Hi team, Sad to see the payment for my jacket was declined without any reason.",Negative,Sadness,Payment
+Update: The product quality is poor and I'm really disappointed.,Negative,Sadness,Product Quality
+"The app crashes every time I open it, this is ridiculous and I'm furious!",Negative,Anger,Technical Problem
+I'm sad because the laptop looks nothing like the pictures. Just sharing my feedback.,Negative,Sadness,Product Quality
+"Update: Very helpful agent, I'm really happy with the service! Please note this.",Positive,Joy,Customer Service
+"I still haven't received my refund after ten weeks, this is outrageous!",Negative,Anger,Refund/Return
+I paid for my watch using a credit card yesterday. That is my experience.,Neutral,Neutral,Payment
+"Honestly, I'm very disappointed, my jacket still hasn't arrived.",Negative,Sadness,Delivery
+"I'm afraid the phone is a fake, the quality feels suspicious. Just sharing my feedback.",Negative,Fear,Product Quality
+"To be clear, Wow, I got instant cashback on my payment, what a surprise! Please note this.",Positive,Surprise,Payment
+"Hi team, I didn't expect such a friendly agent, what a pleasant surprise! Just sharing my feedback.",Positive,Surprise,Customer Service
+"Payment was smooth and instant, loved the easy checkout! That is my experience.",Positive,Joy,Payment
+"To be clear, I'm anxious because nobody from customer care answered my urgent message. Just sharing my feedback.",Negative,Fear,Customer Service
+"Update: Nobody replies to my complaints, this service is unacceptable!",Negative,Anger,Customer Service
+My order is delayed for two days and nobody tells me anything! Please note this.,Negative,Anger,Delivery
+I'm worried I lost all my data after the app update. That is my experience.,Negative,Fear,Technical Problem
+"Completely unacceptable, the watch broke on the first day! That is my experience.",Negative,Anger,Product Quality
+"Hi team, Payment was smooth and instant, loved the easy checkout! Just sharing my feedback.",Positive,Joy,Payment
+"To be clear, Wow, the app loaded instantly after the update, I'm surprised! Please note this.",Positive,Surprise,Technical Problem
+"To be clear, Sad that the support team didn't care about my problem.",Negative,Sadness,Customer Service
+"Update: The refund was processed in a day, I'm so happy, thank you!",Positive,Joy,Refund/Return
+I didn't expect the bug to be fixed so quickly!,Positive,Surprise,Technical Problem
+"To be clear, Love how fast and smooth the app is after the update!",Positive,Joy,Technical Problem
+"To be clear, I opened the settings page to change my password. That is my experience.",Neutral,Neutral,Technical Problem
+"Great pricing, the shoes was a wonderful deal, so happy! That is my experience.",Positive,Joy,Pricing
+"Hi team, Sad to see the payment for my charger was declined without any reason. That is my experience.",Negative,Sadness,Payment
+"Delivery was super fast, my laptop arrived a day early. Thank you! Just sharing my feedback.",Positive,Joy,Delivery
+Update: I received the phone in a standard cardboard box.,Neutral,Neutral,Product Quality
+"Honestly, I haven't received my refund yet and I'm really upset.",Negative,Sadness,Refund/Return
+"Hi team, I'm disappointed that my payment failed again at checkout.",Negative,Sadness,Payment
+"Honestly, I still haven't received my refund after 10 weeks, this is outrageous! That is my experience.",Negative,Anger,Refund/Return
+"Honestly, Wow, my phone arrived much earlier than I expected! That is my experience.",Positive,Surprise,Delivery
+"Honestly, I'm worried I lost all my data after the app update.",Negative,Fear,Technical Problem
+"To be clear, The refund policy says money returns in five to seven days.",Neutral,Neutral,Refund/Return
+"Honestly, I'm afraid the payment for my tablet went to the wrong account.",Negative,Fear,Payment
+"To be clear, The product quality is poor and I'm really disappointed.",Negative,Sadness,Product Quality
+Update: Sad that the support team didn't care about my problem.,Negative,Sadness,Customer Service
+"Hi team, My order is delayed for 3 days and nobody tells me anything! Please note this.",Negative,Anger,Delivery
+Update: My order is delayed for 2 days and nobody tells me anything! Just sharing my feedback.,Negative,Anger,Delivery
+"To be clear, Excellent quality, the jacket works perfectly and I'm so happy.",Positive,Joy,Product Quality
+"Hi team, Sad that I can no longer afford the subscription after the price hike. Just sharing my feedback.",Negative,Sadness,Pricing
+"The support agent was rude and hung up on me, I'm furious! That is my experience.",Negative,Anger,Customer Service
+"Hi team, I didn't expect such a smooth payment process, pleasantly surprised! That is my experience.",Positive,Surprise,Payment
+"To be clear, I'm disappointed that customer care never called me back.",Negative,Sadness,Customer Service
+"Update: I'm worried the phone is unsafe, it gets very hot while using. Just sharing my feedback.",Negative,Fear,Product Quality
+Update: The refund policy says money returns in five to seven days. That is my experience.,Neutral,Neutral,Refund/Return
+"To be clear, The product quality is poor and I'm really disappointed. That is my experience.",Negative,Sadness,Product Quality
+"Hi team, Sad to see the payment for my headphones was declined without any reason. That is my experience.",Negative,Sadness,Payment
+"Hi team, The charger costs about the same as it did last month. That is my experience.",Neutral,Neutral,Pricing
+"Hi team, I opened the settings page to change my password. Please note this.",Neutral,Neutral,Technical Problem
+"Wow, the tablet is far better than I expected! Please note this.",Positive,Surprise,Product Quality
+"Wow, my tablet arrived much earlier than I expected! Just sharing my feedback.",Positive,Surprise,Delivery
+Update: Sad that the return of my tablet was rejected. Just sharing my feedback.,Negative,Sadness,Refund/Return
+"Very helpful agent, I'm really happy with the service! That is my experience.",Positive,Joy,Customer Service
+"Honestly, Wow, the app loaded instantly after the update, I'm surprised! Just sharing my feedback.",Positive,Surprise,Technical Problem
+I'm worried support will never resolve my issue in time.,Negative,Fear,Customer Service
+"To be clear, Wow, customer care replied within minutes, I'm surprised! Just sharing my feedback.",Positive,Surprise,Customer Service
+"Hi team, Loved the quick delivery, the courier was so friendly!",Positive,Joy,Delivery
+"Honestly, I didn't expect such great build quality, impressive!",Positive,Surprise,Product Quality
+Update: Sad that the return of my charger was rejected. Please note this.,Negative,Sadness,Refund/Return
+"Honestly, This is unacceptable, my laptop still hasn't been delivered after 5 weeks! Please note this.",Negative,Anger,Delivery
+"Great, the UPI payment went through in seconds. Happy with it!",Positive,Joy,Payment
+"Hi team, Sad that my laptop came so late, I needed it for an event. Please note this.",Negative,Sadness,Delivery
+"Honestly, Sad that I can no longer afford the subscription after the price hike. Please note this.",Negative,Sadness,Pricing
+"Nobody replies to my complaints, this service is unacceptable!",Negative,Anger,Customer Service
+Update: The pricing page lists three different plans. That is my experience.,Neutral,Neutral,Pricing
+"Honestly, I'm disappointed that the app keeps freezing on my phone. That is my experience.",Negative,Sadness,Technical Problem
+I'm disappointed that my payment failed again at checkout. Just sharing my feedback.,Negative,Sadness,Payment
+"Sad that my watch came so late, I needed it for an event. Please note this.",Negative,Sadness,Delivery
+I raised a return request for my jacket yesterday. Please note this.,Neutral,Neutral,Refund/Return
+Update: I'm disappointed that customer care never called me back. Please note this.,Negative,Sadness,Customer Service
+The app asks me to update to the latest version. Just sharing my feedback.,Neutral,Neutral,Technical Problem
+"Hi team, The payment page asks for a billing address before confirming. Just sharing my feedback.",Neutral,Neutral,Payment
+Update: I'm worried I lost all my data after the app update. That is my experience.,Negative,Fear,Technical Problem
+"To be clear, Sad that my watch came so late, I needed it for an event. That is my experience.",Negative,Sadness,Delivery
+"Hi team, Wow, the phone is much cheaper than I expected!",Positive,Surprise,Pricing
+"Great pricing, the phone was a wonderful deal, so happy! Just sharing my feedback.",Positive,Joy,Pricing
+"Honestly, I paid for my charger using a credit card yesterday. Just sharing my feedback.",Neutral,Neutral,Payment
+I'm scared the courier left my laptop at the wrong address.,Negative,Fear,Delivery
+"Honestly, Wow, my phone arrived much earlier than I expected!",Positive,Surprise,Delivery
+"Hi team, Sad to see the payment for my watch was declined without any reason. Please note this.",Negative,Sadness,Payment
+"Update: I didn't expect such great build quality, impressive! Just sharing my feedback.",Positive,Surprise,Product Quality
+Update: I haven't received my refund yet and I'm really upset. Just sharing my feedback.,Negative,Sadness,Refund/Return
+"Honestly, I'm disappointed that customer care never called me back. That is my experience.",Negative,Sadness,Customer Service
+"To be clear, Delivery was super fast, my tablet arrived a day early. Thank you!",Positive,Joy,Delivery
+The jacket is terrible quality and I'm really angry I paid for this! Just sharing my feedback.,Negative,Anger,Product Quality
+"Hi team, Very helpful agent, I'm really happy with the service! Please note this.",Positive,Joy,Customer Service
+"To be clear, Very helpful agent, I'm really happy with the service! Please note this.",Positive,Joy,Customer Service
+I haven't received my refund yet and I'm really upset.,Negative,Sadness,Refund/Return
+I'm sad because the watch looks nothing like the pictures. That is my experience.,Negative,Sadness,Product Quality
+"Honestly, Excellent quality, the headphones works perfectly and I'm so happy. That is my experience.",Positive,Joy,Product Quality
+"Honestly, I raised a return request for my headphones yesterday. Please note this.",Neutral,Neutral,Refund/Return
+"Hi team, Payment was smooth and instant, loved the easy checkout! Please note this.",Positive,Joy,Payment
+"To be clear, The price is a total rip-off, I'm angry about this hidden charge!",Negative,Anger,Pricing
+"To be clear, The helpline is open from nine to six on weekdays. Please note this.",Neutral,Neutral,Customer Service
+"Honestly, I'm worried the prices will keep going up every month. Please note this.",Negative,Fear,Pricing
+"To be clear, The price is a total rip-off, I'm angry about this hidden charge! That is my experience.",Negative,Anger,Pricing
+The product quality is poor and I'm really disappointed.,Negative,Sadness,Product Quality
+"Honestly, My payment keeps failing and I'm furious that the money was still deducted! Just sharing my feedback.",Negative,Anger,Payment
+"To be clear, Wow, my headphones arrived much earlier than I expected!",Positive,Surprise,Delivery
+"Hi team, My payment keeps failing and I'm furious that the money was still deducted!",Negative,Anger,Payment
+"I didn't expect such a smooth payment process, pleasantly surprised! Just sharing my feedback.",Positive,Surprise,Payment
+I received the tablet in a standard cardboard box. Please note this.,Neutral,Neutral,Product Quality
+I'm scared the courier left my jacket at the wrong address. Just sharing my feedback.,Negative,Fear,Delivery
+"Hi team, I'm worried the watch is unsafe, it gets very hot while using. Just sharing my feedback.",Negative,Fear,Product Quality
+Update: I opened the settings page to change my password.,Neutral,Neutral,Technical Problem
+"Hi team, I'm worried my card details are not safe, I saw a strange charge. Please note this.",Negative,Fear,Payment
+"To be clear, I placed an order for a phone yesterday and expect delivery next week. Just sharing my feedback.",Neutral,Neutral,Delivery
+"Hi team, I'm scared the return pickup won't happen and I'll lose my money. That is my experience.",Negative,Fear,Refund/Return
+"Hi team, Amazing product, I really love the jacket!",Positive,Joy,Product Quality
+"Honestly, The tablet comes in a black colour with a one year warranty. That is my experience.",Neutral,Neutral,Product Quality
+"To be clear, I'm scared the courier left my shoes at the wrong address.",Negative,Fear,Delivery
+I'm worried I'll never get my refund back. Please note this.,Negative,Fear,Refund/Return
+"Update: I can't log in for ten days and support does nothing, so annoying! Just sharing my feedback.",Negative,Anger,Technical Problem
+"Hi team, The new update fixed everything, the app runs great now! That is my experience.",Positive,Joy,Technical Problem
+"Update: I didn't expect the return pickup to be this quick, surprised!",Positive,Surprise,Refund/Return
+"Honestly, Excellent quality, the charger works perfectly and I'm so happy.",Positive,Joy,Product Quality
+The tracking page says my shoes is out for delivery.,Neutral,Neutral,Delivery
+"To be clear, I didn't expect such a smooth payment process, pleasantly surprised! That is my experience.",Positive,Surprise,Payment
+"Hi team, I didn't expect the bug to be fixed so quickly! That is my experience.",Positive,Surprise,Technical Problem
+"Amazing product, I really love the jacket! Just sharing my feedback.",Positive,Joy,Product Quality
+"Wow, the refund reached my account faster than expected! Please note this.",Positive,Surprise,Refund/Return
+"To be clear, I didn't expect such a friendly agent, what a pleasant surprise! Please note this.",Positive,Surprise,Customer Service
+Sad that the return of my charger was rejected.,Negative,Sadness,Refund/Return
+"Honestly, Wow, the charger is much cheaper than I expected!",Positive,Surprise,Pricing
+"The support team was wonderful, they solved my issue quickly. Thank you! Please note this.",Positive,Joy,Customer Service
+"Hi team, Excellent quality, the watch works perfectly and I'm so happy. That is my experience.",Positive,Joy,Product Quality
+"To be clear, Sad that the return of my jacket was rejected.",Negative,Sadness,Refund/Return
+"I'm afraid my account was hacked, I can't log in anymore. Just sharing my feedback.",Negative,Fear,Technical Problem
+"Hi team, The payment page asks for a billing address before confirming.",Neutral,Neutral,Payment
+"Honestly, I'm worried the prices will keep going up every month. That is my experience.",Negative,Fear,Pricing
+"Honestly, The app asks me to update to the latest version. Just sharing my feedback.",Neutral,Neutral,Technical Problem
+"Hi team, Completely unacceptable, the tablet broke on the first day! Just sharing my feedback.",Negative,Anger,Product Quality
+"Honestly, My payment keeps failing and I'm furious that the money was still deducted!",Negative,Anger,Payment
+It's sad that the website never loads properly for me. Just sharing my feedback.,Negative,Sadness,Technical Problem
+"Honestly, I raised a return request for my charger yesterday. Just sharing my feedback.",Neutral,Neutral,Refund/Return
+I'm disappointed that the app keeps freezing on my phone.,Negative,Sadness,Technical Problem
+Update: Sad that the support team didn't care about my problem. Please note this.,Negative,Sadness,Customer Service
+"Update: Wow, I got instant cashback on my payment, what a surprise! Just sharing my feedback.",Positive,Surprise,Payment
+"To be clear, I'm afraid my account was hacked, I can't log in anymore.",Negative,Fear,Technical Problem
+Update: Sad that the return of my tablet was rejected.,Negative,Sadness,Refund/Return
+"Honestly, The laptop costs about the same as it did last month. Just sharing my feedback.",Neutral,Neutral,Pricing
+"Wow, I got instant cashback on my payment, what a surprise!",Positive,Surprise,Payment
+"Hi team, I'm disappointed that customer care never called me back. That is my experience.",Negative,Sadness,Customer Service
+Update: The charger costs about the same as it did last month. Just sharing my feedback.,Neutral,Neutral,Pricing
+"Hi team, I'm afraid the payment for my shoes went to the wrong account.",Negative,Fear,Payment
+"Hi team, The refund policy says money returns in five to seven days. Please note this.",Neutral,Neutral,Refund/Return
+I raised a return request for my tablet yesterday. That is my experience.,Neutral,Neutral,Refund/Return
+"Hi team, Wow, the jacket is far better than I expected!",Positive,Surprise,Product Quality
+Update: I'm scared the return pickup won't happen and I'll lose my money. Please note this.,Negative,Fear,Refund/Return
+"You raised prices again without notice, this is unacceptable! Just sharing my feedback.",Negative,Anger,Pricing
+"To be clear, Wow, the shoes is much cheaper than I expected! Just sharing my feedback.",Positive,Surprise,Pricing
+"To be clear, My payment keeps failing and I'm furious that the money was still deducted! Just sharing my feedback.",Negative,Anger,Payment
+The headphones comes in a black colour with a one year warranty.,Neutral,Neutral,Product Quality
+The tablet comes in a black colour with a one year warranty.,Neutral,Neutral,Product Quality
+"I can't log in for two days and support does nothing, so annoying! That is my experience.",Negative,Anger,Technical Problem
+"To be clear, Completely unacceptable, the laptop broke on the first day! Just sharing my feedback.",Negative,Anger,Product Quality
+I'm sad because the jacket looks nothing like the pictures. Please note this.,Negative,Sadness,Product Quality
+"To be clear, Wow, customer care replied within minutes, I'm surprised! Please note this.",Positive,Surprise,Customer Service
+"Hi team, It's sad that the website never loads properly for me.",Negative,Sadness,Technical Problem
+"To be clear, I'm worried support will never resolve my issue in time. Just sharing my feedback.",Negative,Fear,Customer Service
+"I'm afraid the watch is a fake, the quality feels suspicious. That is my experience.",Negative,Fear,Product Quality
+"Honestly, Nobody replies to my complaints, this service is unacceptable! That is my experience.",Negative,Anger,Customer Service
+"To be clear, Very helpful agent, I'm really happy with the service! Just sharing my feedback.",Positive,Joy,Customer Service
+"I didn't expect such a smooth payment process, pleasantly surprised! Please note this.",Positive,Surprise,Payment
+"Honestly, I'm afraid I am being overcharged compared to other stores. Please note this.",Negative,Fear,Pricing
+"Honestly, I can't log in for ten days and support does nothing, so annoying!",Negative,Anger,Technical Problem
+"To be clear, Very helpful agent, I'm really happy with the service!",Positive,Joy,Customer Service
+"Honestly, This is unacceptable, my laptop still hasn't been delivered after 10 weeks! That is my experience.",Negative,Anger,Delivery
+Update: Sad that I can no longer afford the subscription after the price hike. That is my experience.,Negative,Sadness,Pricing
+I contacted customer care to ask about my order status. Please note this.,Neutral,Neutral,Customer Service
+"To be clear, I'm worried I lost all my data after the app update.",Negative,Fear,Technical Problem
+"To be clear, Sad to see the payment for my headphones was declined without any reason. Just sharing my feedback.",Negative,Sadness,Payment
+"The new update fixed everything, the app runs great now! Just sharing my feedback.",Positive,Joy,Technical Problem
+"Update: The price is a total rip-off, I'm angry about this hidden charge! That is my experience.",Negative,Anger,Pricing
+"To be clear, The pricing page lists three different plans. That is my experience.",Neutral,Neutral,Pricing
+"Hi team, You raised prices again without notice, this is unacceptable! That is my experience.",Negative,Anger,Pricing
+"Honestly, I placed an order for a jacket yesterday and expect delivery next week.",Neutral,Neutral,Delivery
+Update: The refund policy says money returns in five to seven days.,Neutral,Neutral,Refund/Return
+"Great pricing, the headphones was a wonderful deal, so happy! Just sharing my feedback.",Positive,Joy,Pricing
+"Update: Wow, the shoes is far better than I expected!",Positive,Surprise,Product Quality
+"Hi team, Delivery was super fast, my charger arrived a day early. Thank you! That is my experience.",Positive,Joy,Delivery
+"Honestly, I'm worried my watch got lost in transit, the tracking has not updated.",Negative,Fear,Delivery
+"To be clear, The phone is terrible quality and I'm really angry I paid for this!",Negative,Anger,Product Quality
+"Hi team, I'm disappointed, the charger is too expensive for me now. Please note this.",Negative,Sadness,Pricing
+"I'm very disappointed, my watch still hasn't arrived. Please note this.",Negative,Sadness,Delivery
+"Update: Wow, customer care replied within minutes, I'm surprised! Just sharing my feedback.",Positive,Surprise,Customer Service
+"To be clear, The payment page asks for a billing address before confirming. Just sharing my feedback.",Neutral,Neutral,Payment
+"Update: I'm worried my phone got lost in transit, the tracking has not updated.",Negative,Fear,Delivery
+"Update: I'm afraid my account was hacked, I can't log in anymore.",Negative,Fear,Technical Problem
+"Hi team, I'm afraid the tablet is a fake, the quality feels suspicious. Just sharing my feedback.",Negative,Fear,Product Quality
+Update: The tracking page says my charger is out for delivery. Just sharing my feedback.,Neutral,Neutral,Delivery
+"Hi team, I can't log in for 5 days and support does nothing, so annoying! Just sharing my feedback.",Negative,Anger,Technical Problem
+"Update: Wow, the refund reached my account faster than expected! That is my experience.",Positive,Surprise,Refund/Return
+"The refund was processed in a day, I'm so happy, thank you!",Positive,Joy,Refund/Return
+I'm worried I lost all my data after the app update.,Negative,Fear,Technical Problem
+"Hi team, I received the phone in a standard cardboard box. Just sharing my feedback.",Neutral,Neutral,Product Quality
+"To be clear, I raised a return request for my shoes yesterday.",Neutral,Neutral,Refund/Return
+"I didn't expect the return pickup to be this quick, surprised!",Positive,Surprise,Refund/Return
+I'm worried support will never resolve my issue in time. Please note this.,Negative,Fear,Customer Service
+"Update: They refuse to accept my return, I'm so angry about this! Just sharing my feedback.",Negative,Anger,Refund/Return
+The tracking page says my laptop is out for delivery. Please note this.,Neutral,Neutral,Delivery
+"Honestly, I'm disappointed that customer care never called me back.",Negative,Sadness,Customer Service
+"Honestly, I contacted customer care to ask about my order status. Please note this.",Neutral,Neutral,Customer Service
+"I'm worried my card details are not safe, I saw a strange charge.",Negative,Fear,Payment
+"Sad that my tablet came so late, I needed it for an event.",Negative,Sadness,Delivery
+"To be clear, The app asks me to update to the latest version. Just sharing my feedback.",Neutral,Neutral,Technical Problem
+"Honestly, I'm worried the phone is unsafe, it gets very hot while using. Please note this.",Negative,Fear,Product Quality
+"Hi team, I didn't expect the bug to be fixed so quickly!",Positive,Surprise,Technical Problem
+"Hi team, You charged my card twice and nobody will fix it, this is outrageous! Please note this.",Negative,Anger,Payment
+I received the tablet in a standard cardboard box. That is my experience.,Neutral,Neutral,Product Quality
+"Honestly, I'm worried support will never resolve my issue in time. Please note this.",Negative,Fear,Customer Service
+Update: I'm sad because the watch looks nothing like the pictures. Please note this.,Negative,Sadness,Product Quality
+"I didn't expect the delivery to come this soon, what a surprise! Please note this.",Positive,Surprise,Delivery
+"Hi team, I'm disappointed, the headphones is too expensive for me now.",Negative,Sadness,Pricing
+Love how fast and smooth the app is after the update!,Positive,Joy,Technical Problem
+"I didn't expect a sale this big, what a pleasant surprise!",Positive,Surprise,Pricing
+"Hi team, I can't log in for 2 days and support does nothing, so annoying!",Negative,Anger,Technical Problem
+"Hi team, Completely unacceptable, the laptop broke on the first day! That is my experience.",Negative,Anger,Product Quality
+I'm scared the courier left my tablet at the wrong address. Just sharing my feedback.,Negative,Fear,Delivery
+"Hi team, I'm worried the prices will keep going up every month.",Negative,Fear,Pricing
+Update: I'm worried the prices will keep going up every month. Please note this.,Negative,Fear,Pricing
+"Wow, the jacket is much cheaper than I expected! Just sharing my feedback.",Positive,Surprise,Pricing
+The app asks me to update to the latest version. That is my experience.,Neutral,Neutral,Technical Problem
+"Update: The new update fixed everything, the app runs great now!",Positive,Joy,Technical Problem
+"Honestly, The headphones costs about the same as it did last month. Just sharing my feedback.",Neutral,Neutral,Pricing
+"I'm worried the watch is unsafe, it gets very hot while using.",Negative,Fear,Product Quality
+The tracking page says my tablet is out for delivery.,Neutral,Neutral,Delivery
+Update: I'm worried support will never resolve my issue in time.,Negative,Fear,Customer Service
+Update: Sad that I can no longer afford the subscription after the price hike.,Negative,Sadness,Pricing
+"Hi team, The refund was processed in a day, I'm so happy, thank you!",Positive,Joy,Refund/Return
+"Honestly, Loved the easy return process, everything was smooth. Just sharing my feedback.",Positive,Joy,Refund/Return
+"To be clear, You raised prices again without notice, this is unacceptable!",Negative,Anger,Pricing
+"To be clear, The watch is terrible quality and I'm really angry I paid for this! Please note this.",Negative,Anger,Product Quality
+"Hi team, The product quality is poor and I'm really disappointed. That is my experience.",Negative,Sadness,Product Quality
+"Hi team, Great pricing, the charger was a wonderful deal, so happy!",Positive,Joy,Pricing
+"Update: You charged my card twice and nobody will fix it, this is outrageous!",Negative,Anger,Payment
+My order is delayed for 2 days and nobody tells me anything!,Negative,Anger,Delivery
+"The app crashes every time I open it, this is ridiculous and I'm furious! Please note this.",Negative,Anger,Technical Problem
+"I'm worried my watch got lost in transit, the tracking has not updated. That is my experience.",Negative,Fear,Delivery
+"Delivery was super fast, my jacket arrived a day early. Thank you! That is my experience.",Positive,Joy,Delivery
+"Honestly, Completely unacceptable, the headphones broke on the first day! That is my experience.",Negative,Anger,Product Quality
+"Hi team, I'm afraid my account was hacked, I can't log in anymore. That is my experience.",Negative,Fear,Technical Problem
+Update: The refund policy says money returns in five to seven days. Please note this.,Neutral,Neutral,Refund/Return
+The watch is terrible quality and I'm really angry I paid for this! Please note this.,Negative,Anger,Product Quality
+"The support team was wonderful, they solved my issue quickly. Thank you! That is my experience.",Positive,Joy,Customer Service
+"Hi team, Amazing product, I really love the phone!",Positive,Joy,Product Quality
+"Hi team, I'm afraid the payment for my watch went to the wrong account.",Negative,Fear,Payment
+"Update: Wow, the app loaded instantly after the update, I'm surprised! That is my experience.",Positive,Surprise,Technical Problem
+"Update: I can't log in for 3 days and support does nothing, so annoying! That is my experience.",Negative,Anger,Technical Problem
+"Delivery was super fast, my jacket arrived a day early. Thank you!",Positive,Joy,Delivery
+My payment keeps failing and I'm furious that the money was still deducted! Please note this.,Negative,Anger,Payment
+The headphones is terrible quality and I'm really angry I paid for this! That is my experience.,Negative,Anger,Product Quality
+"I didn't expect such a friendly agent, what a pleasant surprise! Please note this.",Positive,Surprise,Customer Service
+"Hi team, I didn't expect a sale this big, what a pleasant surprise!",Positive,Surprise,Pricing
+I'm anxious because nobody from customer care answered my urgent message. That is my experience.,Negative,Fear,Customer Service
+"Hi team, I'm afraid the watch is a fake, the quality feels suspicious. Please note this.",Negative,Fear,Product Quality
+"I didn't expect such great build quality, impressive!",Positive,Surprise,Product Quality
+"Hi team, I love the discount, the price is very affordable. Please note this.",Positive,Joy,Pricing
+"Honestly, I'm disappointed that my payment failed again at checkout. That is my experience.",Negative,Sadness,Payment
+"I didn't expect the return pickup to be this quick, surprised! Please note this.",Positive,Surprise,Refund/Return
+"Update: Wow, I got instant cashback on my payment, what a surprise! Please note this.",Positive,Surprise,Payment
+"Honestly, I'm worried the prices will keep going up every month. Just sharing my feedback.",Negative,Fear,Pricing
+"Wow, the refund reached my account faster than expected! Just sharing my feedback.",Positive,Surprise,Refund/Return
+The payment page asks for a billing address before confirming.,Neutral,Neutral,Payment
+"Honestly, The refund was processed in a day, I'm so happy, thank you!",Positive,Joy,Refund/Return
+Update: The shoes comes in a black colour with a one year warranty.,Neutral,Neutral,Product Quality
+"Update: Wow, the app loaded instantly after the update, I'm surprised! Just sharing my feedback.",Positive,Surprise,Technical Problem
+"Hi team, I'm worried the shoes is unsafe, it gets very hot while using.",Negative,Fear,Product Quality
+"Sad that my shoes came so late, I needed it for an event.",Negative,Sadness,Delivery
+"Honestly, I'm worried I'll never get my refund back.",Negative,Fear,Refund/Return
+"Loved the easy return process, everything was smooth. Please note this.",Positive,Joy,Refund/Return
+"Update: I'm afraid my account was hacked, I can't log in anymore. That is my experience.",Negative,Fear,Technical Problem
+"Honestly, The price is a total rip-off, I'm angry about this hidden charge! Just sharing my feedback.",Negative,Anger,Pricing
+"Honestly, I'm afraid the payment for my jacket went to the wrong account. Just sharing my feedback.",Negative,Fear,Payment
+"Loved the quick delivery, the courier was so friendly!",Positive,Joy,Delivery
+"To be clear, I didn't expect the delivery to come this soon, what a surprise! Please note this.",Positive,Surprise,Delivery
+"Update: The new update fixed everything, the app runs great now! That is my experience.",Positive,Joy,Technical Problem
+My payment keeps failing and I'm furious that the money was still deducted!,Negative,Anger,Payment
+"Hi team, They refuse to accept my return, I'm so angry about this! Just sharing my feedback.",Negative,Anger,Refund/Return
+"This is unacceptable, my jacket still hasn't been delivered after 5 weeks!",Negative,Anger,Delivery
+"Hi team, My order is delayed for two days and nobody tells me anything!",Negative,Anger,Delivery
+"To be clear, I'm afraid the phone is a fake, the quality feels suspicious. That is my experience.",Negative,Fear,Product Quality
+"Update: Wow, the app loaded instantly after the update, I'm surprised!",Positive,Surprise,Technical Problem
+"Honestly, Excellent quality, the tablet works perfectly and I'm so happy. Please note this.",Positive,Joy,Product Quality
+The watch is terrible quality and I'm really angry I paid for this! Just sharing my feedback.,Negative,Anger,Product Quality
+"To be clear, I love the discount, the price is very affordable. Please note this.",Positive,Joy,Pricing
+"To be clear, You raised prices again without notice, this is unacceptable! Please note this.",Negative,Anger,Pricing
+"Update: Loved the quick delivery, the courier was so friendly!",Positive,Joy,Delivery
+Sad that the support team didn't care about my problem. Please note this.,Negative,Sadness,Customer Service
+"Sad that my headphones came so late, I needed it for an event. That is my experience.",Negative,Sadness,Delivery
+"To be clear, I'm disappointed that customer care never called me back. Please note this.",Negative,Sadness,Customer Service
+Update: I'm scared the courier left my laptop at the wrong address. That is my experience.,Negative,Fear,Delivery
+"You raised prices again without notice, this is unacceptable!",Negative,Anger,Pricing
+"Hi team, I haven't received my refund yet and I'm really upset.",Negative,Sadness,Refund/Return
+"Honestly, I love the discount, the price is very affordable.",Positive,Joy,Pricing
+I'm afraid I am being overcharged compared to other stores. Please note this.,Negative,Fear,Pricing
+"Loved the easy return process, everything was smooth. That is my experience.",Positive,Joy,Refund/Return
+"This is unacceptable, my charger still hasn't been delivered after 2 weeks! That is my experience.",Negative,Anger,Delivery
+"Hi team, I'm scared the return pickup won't happen and I'll lose my money. Just sharing my feedback.",Negative,Fear,Refund/Return
+"Hi team, Wow, the refund reached my account faster than expected!",Positive,Surprise,Refund/Return
+"Update: Loved the easy return process, everything was smooth.",Positive,Joy,Refund/Return
+Sad to see the payment for my charger was declined without any reason. Just sharing my feedback.,Negative,Sadness,Payment
+I'm anxious because nobody from customer care answered my urgent message. Just sharing my feedback.,Negative,Fear,Customer Service
+"Update: I didn't expect such a smooth payment process, pleasantly surprised! Just sharing my feedback.",Positive,Surprise,Payment
+It's sad that the website never loads properly for me.,Negative,Sadness,Technical Problem
+"Honestly, I'm afraid I am being overcharged compared to other stores. That is my experience.",Negative,Fear,Pricing
+I'm disappointed that the app keeps freezing on my phone. That is my experience.,Negative,Sadness,Technical Problem
+"Update: I'm disappointed, the phone is too expensive for me now. Just sharing my feedback.",Negative,Sadness,Pricing
+"Hi team, I opened the settings page to change my password.",Neutral,Neutral,Technical Problem
+"To be clear, I'm worried I'll never get my refund back. That is my experience.",Negative,Fear,Refund/Return
+My order is delayed for 3 days and nobody tells me anything!,Negative,Anger,Delivery
+"Honestly, The support team was wonderful, they solved my issue quickly. Thank you! That is my experience.",Positive,Joy,Customer Service
+"To be clear, I'm worried my card details are not safe, I saw a strange charge. That is my experience.",Negative,Fear,Payment
+"Honestly, I received the charger in a standard cardboard box. Just sharing my feedback.",Neutral,Neutral,Product Quality
+Update: I'm worried support will never resolve my issue in time. Please note this.,Negative,Fear,Customer Service
+"Honestly, I received the laptop in a standard cardboard box. Please note this.",Neutral,Neutral,Product Quality
+"Update: I'm afraid the charger is a fake, the quality feels suspicious. That is my experience.",Negative,Fear,Product Quality
+Sad that the return of my watch was rejected. Just sharing my feedback.,Negative,Sadness,Refund/Return
+"This is unacceptable, my jacket still hasn't been delivered after ten weeks!",Negative,Anger,Delivery
+"Honestly, Great, the UPI payment went through in seconds. Happy with it! That is my experience.",Positive,Joy,Payment
+Update: I opened the settings page to change my password. That is my experience.,Neutral,Neutral,Technical Problem
+"Hi team, The shoes costs about the same as it did last month. Please note this.",Neutral,Neutral,Pricing
+"Honestly, I placed an order for a watch yesterday and expect delivery next week.",Neutral,Neutral,Delivery
+"I love the discount, the price is very affordable.",Positive,Joy,Pricing
+"The support team was wonderful, they solved my issue quickly. Thank you!",Positive,Joy,Customer Service
+"Hi team, The shoes costs about the same as it did last month. That is my experience.",Neutral,Neutral,Pricing
+Sad that the return of my tablet was rejected. That is my experience.,Negative,Sadness,Refund/Return
+Update: It's sad that the website never loads properly for me. Just sharing my feedback.,Negative,Sadness,Technical Problem
+I'm worried the prices will keep going up every month.,Negative,Fear,Pricing
+"To be clear, Wow, the refund reached my account faster than expected!",Positive,Surprise,Refund/Return
+"Honestly, Great, the UPI payment went through in seconds. Happy with it!",Positive,Joy,Payment
+"Honestly, Nobody replies to my complaints, this service is unacceptable! Just sharing my feedback.",Negative,Anger,Customer Service
+"Honestly, They refuse to accept my return, I'm so angry about this! That is my experience.",Negative,Anger,Refund/Return
+Sad that the return of my headphones was rejected. That is my experience.,Negative,Sadness,Refund/Return
+I raised a return request for my shoes yesterday.,Neutral,Neutral,Refund/Return
+Update: The app asks me to update to the latest version. Just sharing my feedback.,Neutral,Neutral,Technical Problem
+Update: Sad that the support team didn't care about my problem. Just sharing my feedback.,Negative,Sadness,Customer Service
+Update: Sad that I can no longer afford the subscription after the price hike. Please note this.,Negative,Sadness,Pricing
+"To be clear, I love the discount, the price is very affordable. That is my experience.",Positive,Joy,Pricing
+Update: It's sad that the website never loads properly for me. Please note this.,Negative,Sadness,Technical Problem
+"They refuse to accept my return, I'm so angry about this! Just sharing my feedback.",Negative,Anger,Refund/Return
+"Honestly, I contacted customer care to ask about my order status. Just sharing my feedback.",Neutral,Neutral,Customer Service
+"Update: Wow, the laptop is much cheaper than I expected! Just sharing my feedback.",Positive,Surprise,Pricing
+"I didn't expect a sale this big, what a pleasant surprise! Just sharing my feedback.",Positive,Surprise,Pricing
+The payment page asks for a billing address before confirming. That is my experience.,Neutral,Neutral,Payment
+"Hi team, I'm disappointed that customer care never called me back. Please note this.",Negative,Sadness,Customer Service
+I contacted customer care to ask about my order status. Just sharing my feedback.,Neutral,Neutral,Customer Service
+"Honestly, I didn't expect such a smooth payment process, pleasantly surprised!",Positive,Surprise,Payment
+Update: The app asks me to update to the latest version. Please note this.,Neutral,Neutral,Technical Problem
+"To be clear, Completely unacceptable, the headphones broke on the first day! Just sharing my feedback.",Negative,Anger,Product Quality
+"Update: I'm afraid my account was hacked, I can't log in anymore. Please note this.",Negative,Fear,Technical Problem
+Update: I'm anxious because nobody from customer care answered my urgent message. Just sharing my feedback.,Negative,Fear,Customer Service
+"To be clear, Delivery was super fast, my phone arrived a day early. Thank you!",Positive,Joy,Delivery
+"Update: Amazing product, I really love the laptop! Please note this.",Positive,Joy,Product Quality
+"To be clear, Great, the UPI payment went through in seconds. Happy with it! Please note this.",Positive,Joy,Payment
+I'm worried the prices will keep going up every month. Please note this.,Negative,Fear,Pricing
+Update: I haven't received my refund yet and I'm really upset. That is my experience.,Negative,Sadness,Refund/Return
+"To be clear, The watch comes in a black colour with a one year warranty.",Neutral,Neutral,Product Quality
+"Update: Amazing product, I really love the headphones! Just sharing my feedback.",Positive,Joy,Product Quality
+"Hi team, Wow, the refund reached my account faster than expected! That is my experience.",Positive,Surprise,Refund/Return
+"Honestly, Love how fast and smooth the app is after the update! Just sharing my feedback.",Positive,Joy,Technical Problem
+"To be clear, Wow, my jacket arrived much earlier than I expected! Please note this.",Positive,Surprise,Delivery
+"To be clear, The tracking page says my phone is out for delivery. Please note this.",Neutral,Neutral,Delivery
+"To be clear, The new update fixed everything, the app runs great now! Please note this.",Positive,Joy,Technical Problem
+"To be clear, Great pricing, the watch was a wonderful deal, so happy!",Positive,Joy,Pricing
+"Payment was smooth and instant, loved the easy checkout!",Positive,Joy,Payment
+"Honestly, I'm afraid my account was hacked, I can't log in anymore. Please note this.",Negative,Fear,Technical Problem
+"Update: Wow, my watch arrived much earlier than I expected! Please note this.",Positive,Surprise,Delivery
+"I didn't expect the delivery to come this soon, what a surprise! Just sharing my feedback.",Positive,Surprise,Delivery
+My order is delayed for 2 days and nobody tells me anything! That is my experience.,Negative,Anger,Delivery
+"To be clear, I'm disappointed, the tablet is too expensive for me now. Please note this.",Negative,Sadness,Pricing
+"Honestly, I'm very disappointed, my charger still hasn't arrived. Just sharing my feedback.",Negative,Sadness,Delivery
+Sad that I can no longer afford the subscription after the price hike. Please note this.,Negative,Sadness,Pricing
+"Honestly, I didn't expect the return pickup to be this quick, surprised! That is my experience.",Positive,Surprise,Refund/Return
+"Honestly, The support team was wonderful, they solved my issue quickly. Thank you! Just sharing my feedback.",Positive,Joy,Customer Service
+"To be clear, Wow, the app loaded instantly after the update, I'm surprised! Just sharing my feedback.",Positive,Surprise,Technical Problem
+I'm afraid the payment for my watch went to the wrong account. Just sharing my feedback.,Negative,Fear,Payment
+I didn't expect the bug to be fixed so quickly! Just sharing my feedback.,Positive,Surprise,Technical Problem
+"Honestly, Amazing product, I really love the phone! Please note this.",Positive,Joy,Product Quality
+"Honestly, Excellent quality, the watch works perfectly and I'm so happy. Please note this.",Positive,Joy,Product Quality
+"To be clear, Wow, the app loaded instantly after the update, I'm surprised!",Positive,Surprise,Technical Problem
+"To be clear, I didn't expect such a friendly agent, what a pleasant surprise! That is my experience.",Positive,Surprise,Customer Service
+"To be clear, I paid for my watch using a credit card yesterday. That is my experience.",Neutral,Neutral,Payment
+"I didn't expect a sale this big, what a pleasant surprise! That is my experience.",Positive,Surprise,Pricing
+"Update: This is unacceptable, my watch still hasn't been delivered after 2 weeks! That is my experience.",Negative,Anger,Delivery
+"Update: The new update fixed everything, the app runs great now! Just sharing my feedback.",Positive,Joy,Technical Problem
+The refund policy says money returns in five to seven days.,Neutral,Neutral,Refund/Return
+"Honestly, I contacted customer care to ask about my order status. That is my experience.",Neutral,Neutral,Customer Service
+"Wow, the app loaded instantly after the update, I'm surprised!",Positive,Surprise,Technical Problem
+I'm worried I'll never get my refund back.,Negative,Fear,Refund/Return
+Update: The pricing page lists three different plans.,Neutral,Neutral,Pricing
+"Hi team, I received the watch in a standard cardboard box. Just sharing my feedback.",Neutral,Neutral,Product Quality
+"Hi team, Wow, the charger is far better than I expected!",Positive,Surprise,Product Quality
+Update: I placed an order for a tablet yesterday and expect delivery next week. Just sharing my feedback.,Neutral,Neutral,Delivery
+"To be clear, Sad to see the payment for my laptop was declined without any reason. Please note this.",Negative,Sadness,Payment
+"Honestly, I didn't expect the bug to be fixed so quickly!",Positive,Surprise,Technical Problem
+"Update: I didn't expect such great build quality, impressive! That is my experience.",Positive,Surprise,Product Quality
+"Hi team, I still haven't received my refund after 3 weeks, this is outrageous!",Negative,Anger,Refund/Return
+"Honestly, I'm worried my jacket got lost in transit, the tracking has not updated.",Negative,Fear,Delivery
+"Hi team, I'm worried the phone is unsafe, it gets very hot while using. Please note this.",Negative,Fear,Product Quality
+I'm worried I lost all my data after the app update. Please note this.,Negative,Fear,Technical Problem
+"Hi team, The app asks me to update to the latest version. Please note this.",Neutral,Neutral,Technical Problem
+I paid for my watch using a credit card yesterday.,Neutral,Neutral,Payment
+"Honestly, Sad that I can no longer afford the subscription after the price hike. That is my experience.",Negative,Sadness,Pricing
+Update: I'm scared the courier left my watch at the wrong address. Just sharing my feedback.,Negative,Fear,Delivery
+"Honestly, I'm disappointed, the headphones is too expensive for me now. Just sharing my feedback.",Negative,Sadness,Pricing
+"Great, the UPI payment went through in seconds. Happy with it! Please note this.",Positive,Joy,Payment
+"Hi team, I didn't expect the return pickup to be this quick, surprised!",Positive,Surprise,Refund/Return
+"Hi team, I didn't expect such a friendly agent, what a pleasant surprise!",Positive,Surprise,Customer Service
+"Honestly, I'm worried my phone got lost in transit, the tracking has not updated. Just sharing my feedback.",Negative,Fear,Delivery
+"Honestly, I placed an order for a laptop yesterday and expect delivery next week.",Neutral,Neutral,Delivery
+"Update: Loved the easy return process, everything was smooth. Please note this.",Positive,Joy,Refund/Return
+"To be clear, They refuse to accept my return, I'm so angry about this! That is my experience.",Negative,Anger,Refund/Return
+"Update: I didn't expect the delivery to come this soon, what a surprise! Please note this.",Positive,Surprise,Delivery
+I contacted customer care to ask about my order status. That is my experience.,Neutral,Neutral,Customer Service
+"Update: The app crashes every time I open it, this is ridiculous and I'm furious!",Negative,Anger,Technical Problem
+"Hi team, The refund was processed in a day, I'm so happy, thank you! Please note this.",Positive,Joy,Refund/Return
+"Hi team, I'm anxious because nobody from customer care answered my urgent message.",Negative,Fear,Customer Service
+"I love the discount, the price is very affordable. That is my experience.",Positive,Joy,Pricing
+"Update: Wow, I got instant cashback on my payment, what a surprise!",Positive,Surprise,Payment
+"The support team was wonderful, they solved my issue quickly. Thank you! Just sharing my feedback.",Positive,Joy,Customer Service
+Update: I'm disappointed that my payment failed again at checkout. Just sharing my feedback.,Negative,Sadness,Payment
+"Honestly, It's sad that the website never loads properly for me.",Negative,Sadness,Technical Problem
+"Update: I'm worried my phone got lost in transit, the tracking has not updated. Just sharing my feedback.",Negative,Fear,Delivery
+"Hi team, I raised a return request for my charger yesterday. That is my experience.",Neutral,Neutral,Refund/Return
+Update: The pricing page lists three different plans. Just sharing my feedback.,Neutral,Neutral,Pricing
+"Update: I'm very disappointed, my headphones still hasn't arrived.",Negative,Sadness,Delivery
+"Honestly, Wow, I got instant cashback on my payment, what a surprise!",Positive,Surprise,Payment
+"To be clear, I'm afraid the payment for my charger went to the wrong account. Please note this.",Negative,Fear,Payment
+I'm worried I lost all my data after the app update. Just sharing my feedback.,Negative,Fear,Technical Problem
+The watch comes in a black colour with a one year warranty. That is my experience.,Neutral,Neutral,Product Quality
+"To be clear, I'm disappointed that my payment failed again at checkout.",Negative,Sadness,Payment
+I'm afraid I am being overcharged compared to other stores. That is my experience.,Negative,Fear,Pricing
+"I can't log in for 10 days and support does nothing, so annoying! Please note this.",Negative,Anger,Technical Problem
+"Delivery was super fast, my jacket arrived a day early. Thank you! Just sharing my feedback.",Positive,Joy,Delivery
+"I'm afraid the charger is a fake, the quality feels suspicious.",Negative,Fear,Product Quality
+"Update: The support agent was rude and hung up on me, I'm furious!",Negative,Anger,Customer Service
+"To be clear, The refund policy says money returns in five to seven days. Just sharing my feedback.",Neutral,Neutral,Refund/Return
+"Hi team, The support team was wonderful, they solved my issue quickly. Thank you! Please note this.",Positive,Joy,Customer Service
+"I didn't expect such a smooth payment process, pleasantly surprised!",Positive,Surprise,Payment
+"To be clear, Wow, the refund reached my account faster than expected! Please note this.",Positive,Surprise,Refund/Return
+Update: The helpline is open from nine to six on weekdays. Just sharing my feedback.,Neutral,Neutral,Customer Service
+"Honestly, Wow, the shoes is far better than I expected!",Positive,Surprise,Product Quality
+The watch is terrible quality and I'm really angry I paid for this!,Negative,Anger,Product Quality
+"Honestly, I'm worried my phone got lost in transit, the tracking has not updated. That is my experience.",Negative,Fear,Delivery
+"Hi team, The support agent was rude and hung up on me, I'm furious!",Negative,Anger,Customer Service
+I'm worried support will never resolve my issue in time. That is my experience.,Negative,Fear,Customer Service
+"Honestly, Wow, the shoes is much cheaper than I expected!",Positive,Surprise,Pricing
+"Hi team, I'm very disappointed, my headphones still hasn't arrived. Just sharing my feedback.",Negative,Sadness,Delivery
+"To be clear, Loved the easy return process, everything was smooth. Just sharing my feedback.",Positive,Joy,Refund/Return
+"Hi team, I'm afraid the payment for my tablet went to the wrong account. Please note this.",Negative,Fear,Payment
+"Hi team, I didn't expect the bug to be fixed so quickly! Just sharing my feedback.",Positive,Surprise,Technical Problem
+"To be clear, The app crashes every time I open it, this is ridiculous and I'm furious! Just sharing my feedback.",Negative,Anger,Technical Problem
+"I'm disappointed, the charger is too expensive for me now. Please note this.",Negative,Sadness,Pricing
+Sad that the support team didn't care about my problem. Just sharing my feedback.,Negative,Sadness,Customer Service
+"Honestly, The watch comes in a black colour with a one year warranty. That is my experience.",Neutral,Neutral,Product Quality
+"Honestly, I didn't expect the bug to be fixed so quickly! Just sharing my feedback.",Positive,Surprise,Technical Problem
+"Hi team, I didn't expect a sale this big, what a pleasant surprise! Just sharing my feedback.",Positive,Surprise,Pricing
+"Update: I'm worried my card details are not safe, I saw a strange charge. That is my experience.",Negative,Fear,Payment
+"I didn't expect such great build quality, impressive! Just sharing my feedback.",Positive,Surprise,Product Quality
+"I'm afraid the shoes is a fake, the quality feels suspicious. Please note this.",Negative,Fear,Product Quality
+"To be clear, I didn't expect the bug to be fixed so quickly!",Positive,Surprise,Technical Problem
+"I'm worried my headphones got lost in transit, the tracking has not updated. Just sharing my feedback.",Negative,Fear,Delivery
+"To be clear, The headphones comes in a black colour with a one year warranty. That is my experience.",Neutral,Neutral,Product Quality
+"Honestly, I'm scared the return pickup won't happen and I'll lose my money.",Negative,Fear,Refund/Return
+"To be clear, I'm afraid my account was hacked, I can't log in anymore. Please note this.",Negative,Fear,Technical Problem
+"Update: The app crashes every time I open it, this is ridiculous and I'm furious! That is my experience.",Negative,Anger,Technical Problem
+"Honestly, I haven't received my refund yet and I'm really upset. Just sharing my feedback.",Negative,Sadness,Refund/Return
+"Hi team, I'm worried my card details are not safe, I saw a strange charge.",Negative,Fear,Payment
+Update: I paid for my tablet using a credit card yesterday. Please note this.,Neutral,Neutral,Payment
+"Honestly, I didn't expect the delivery to come this soon, what a surprise!",Positive,Surprise,Delivery
+"Honestly, I didn't expect a sale this big, what a pleasant surprise! Please note this.",Positive,Surprise,Pricing
+"Update: Wow, the tablet is far better than I expected!",Positive,Surprise,Product Quality
+"Great pricing, the laptop was a wonderful deal, so happy!",Positive,Joy,Pricing
+Sad that the support team didn't care about my problem.,Negative,Sadness,Customer Service
+"The price is a total rip-off, I'm angry about this hidden charge! Just sharing my feedback.",Negative,Anger,Pricing
+"Hi team, I'm worried support will never resolve my issue in time. That is my experience.",Negative,Fear,Customer Service
+Love how fast and smooth the app is after the update! Please note this.,Positive,Joy,Technical Problem
+"Hi team, Amazing product, I really love the headphones! That is my experience.",Positive,Joy,Product Quality
+"Honestly, I'm disappointed that my payment failed again at checkout.",Negative,Sadness,Payment
+"Hi team, I paid for my charger using a credit card yesterday.",Neutral,Neutral,Payment
+"Update: I'm very disappointed, my charger still hasn't arrived. That is my experience.",Negative,Sadness,Delivery
+"To be clear, I didn't expect the delivery to come this soon, what a surprise!",Positive,Surprise,Delivery
+"Honestly, Sad that my tablet came so late, I needed it for an event. Please note this.",Negative,Sadness,Delivery
+"Update: Nobody replies to my complaints, this service is unacceptable! That is my experience.",Negative,Anger,Customer Service
+"Honestly, You raised prices again without notice, this is unacceptable!",Negative,Anger,Pricing
+"To be clear, Payment was smooth and instant, loved the easy checkout!",Positive,Joy,Payment
+I'm scared the return pickup won't happen and I'll lose my money.,Negative,Fear,Refund/Return
+"Hi team, I'm anxious because nobody from customer care answered my urgent message. Please note this.",Negative,Fear,Customer Service
+"Update: The price is a total rip-off, I'm angry about this hidden charge!",Negative,Anger,Pricing
+The helpline is open from nine to six on weekdays. Please note this.,Neutral,Neutral,Customer Service
+"I didn't expect the return pickup to be this quick, surprised! Just sharing my feedback.",Positive,Surprise,Refund/Return
+"Honestly, Wow, customer care replied within minutes, I'm surprised! Just sharing my feedback.",Positive,Surprise,Customer Service
+"Honestly, Wow, the laptop is much cheaper than I expected!",Positive,Surprise,Pricing
+"I'm worried the tablet is unsafe, it gets very hot while using. Please note this.",Negative,Fear,Product Quality
+"Update: They refuse to accept my return, I'm so angry about this!",Negative,Anger,Refund/Return
+"Update: The support team was wonderful, they solved my issue quickly. Thank you! That is my experience.",Positive,Joy,Customer Service
+"I still haven't received my refund after ten weeks, this is outrageous! Just sharing my feedback.",Negative,Anger,Refund/Return
+"Update: I didn't expect such great build quality, impressive!",Positive,Surprise,Product Quality
+"Update: Great, the UPI payment went through in seconds. Happy with it! That is my experience.",Positive,Joy,Payment
+"You charged my card twice and nobody will fix it, this is outrageous! Just sharing my feedback.",Negative,Anger,Payment
+I'm sad because the headphones looks nothing like the pictures.,Negative,Sadness,Product Quality
+"Honestly, The watch costs about the same as it did last month. That is my experience.",Neutral,Neutral,Pricing
+"Honestly, I'm sad because the watch looks nothing like the pictures. That is my experience.",Negative,Sadness,Product Quality
+"To be clear, I'm worried I'll never get my refund back.",Negative,Fear,Refund/Return
+Update: I'm afraid I am being overcharged compared to other stores.,Negative,Fear,Pricing
+"Hi team, Wow, customer care replied within minutes, I'm surprised!",Positive,Surprise,Customer Service
+"To be clear, I still haven't received my refund after ten weeks, this is outrageous!",Negative,Anger,Refund/Return
+"Completely unacceptable, the laptop broke on the first day! Please note this.",Negative,Anger,Product Quality
+Update: The refund policy says money returns in five to seven days. Just sharing my feedback.,Neutral,Neutral,Refund/Return
+"Hi team, Sad that my shoes came so late, I needed it for an event.",Negative,Sadness,Delivery
+"Honestly, Very helpful agent, I'm really happy with the service!",Positive,Joy,Customer Service
+"Hi team, I didn't expect the delivery to come this soon, what a surprise!",Positive,Surprise,Delivery
+"Update: Loved the quick delivery, the courier was so friendly! Just sharing my feedback.",Positive,Joy,Delivery
+"To be clear, The product quality is poor and I'm really disappointed. Please note this.",Negative,Sadness,Product Quality
+"Update: Completely unacceptable, the laptop broke on the first day!",Negative,Anger,Product Quality
+"This is unacceptable, my laptop still hasn't been delivered after 10 weeks! Please note this.",Negative,Anger,Delivery
+"Hi team, The pricing page lists three different plans. Just sharing my feedback.",Neutral,Neutral,Pricing
+The jacket is terrible quality and I'm really angry I paid for this! Please note this.,Negative,Anger,Product Quality
+The pricing page lists three different plans.,Neutral,Neutral,Pricing
+I paid for my shoes using a credit card yesterday. That is my experience.,Neutral,Neutral,Payment
+"Hi team, Amazing product, I really love the charger! That is my experience.",Positive,Joy,Product Quality
+"Payment was smooth and instant, loved the easy checkout! Just sharing my feedback.",Positive,Joy,Payment
+"To be clear, I placed an order for a watch yesterday and expect delivery next week.",Neutral,Neutral,Delivery
+I'm sad because the tablet looks nothing like the pictures.,Negative,Sadness,Product Quality
+"Honestly, I'm very disappointed, my jacket still hasn't arrived. That is my experience.",Negative,Sadness,Delivery
+"Wow, the shoes is far better than I expected!",Positive,Surprise,Product Quality
+Update: I'm disappointed that the app keeps freezing on my phone.,Negative,Sadness,Technical Problem
+"Very helpful agent, I'm really happy with the service!",Positive,Joy,Customer Service
+Update: Love how fast and smooth the app is after the update! Just sharing my feedback.,Positive,Joy,Technical Problem
+I paid for my watch using a credit card yesterday. Please note this.,Neutral,Neutral,Payment
+"Honestly, The charger costs about the same as it did last month.",Neutral,Neutral,Pricing
+"Update: I still haven't received my refund after 5 weeks, this is outrageous!",Negative,Anger,Refund/Return
+Update: My payment keeps failing and I'm furious that the money was still deducted! Please note this.,Negative,Anger,Payment
+"Hi team, I'm scared the courier left my tablet at the wrong address.",Negative,Fear,Delivery
+"Update: I still haven't received my refund after 10 weeks, this is outrageous! That is my experience.",Negative,Anger,Refund/Return
+I'm afraid I am being overcharged compared to other stores. Just sharing my feedback.,Negative,Fear,Pricing
+"Hi team, Excellent quality, the tablet works perfectly and I'm so happy. Please note this.",Positive,Joy,Product Quality
+"Nobody replies to my complaints, this service is unacceptable! That is my experience.",Negative,Anger,Customer Service
+"Update: I didn't expect such a friendly agent, what a pleasant surprise!",Positive,Surprise,Customer Service
+"Honestly, I'm disappointed, the shoes is too expensive for me now. Please note this.",Negative,Sadness,Pricing
+I'm scared the courier left my jacket at the wrong address. Please note this.,Negative,Fear,Delivery
+"Honestly, The helpline is open from nine to six on weekdays.",Neutral,Neutral,Customer Service
+"To be clear, I placed an order for a laptop yesterday and expect delivery next week.",Neutral,Neutral,Delivery
+"To be clear, Sad that the support team didn't care about my problem. Just sharing my feedback.",Negative,Sadness,Customer Service
+Update: I'm scared the return pickup won't happen and I'll lose my money. That is my experience.,Negative,Fear,Refund/Return
+"The price is a total rip-off, I'm angry about this hidden charge!",Negative,Anger,Pricing
+My order is delayed for 5 days and nobody tells me anything!,Negative,Anger,Delivery
+"Honestly, I didn't expect such a smooth payment process, pleasantly surprised! That is my experience.",Positive,Surprise,Payment
+"Hi team, The support agent was rude and hung up on me, I'm furious! Please note this.",Negative,Anger,Customer Service
+"To be clear, Excellent quality, the shoes works perfectly and I'm so happy. Please note this.",Positive,Joy,Product Quality
+"Hi team, The new update fixed everything, the app runs great now!",Positive,Joy,Technical Problem
+Update: I contacted customer care to ask about my order status. That is my experience.,Neutral,Neutral,Customer Service
+Sad to see the payment for my shoes was declined without any reason. Just sharing my feedback.,Negative,Sadness,Payment
+"Honestly, Wow, the shoes is far better than I expected! That is my experience.",Positive,Surprise,Product Quality
+Update: I haven't received my refund yet and I'm really upset.,Negative,Sadness,Refund/Return
+"Honestly, Great pricing, the shoes was a wonderful deal, so happy!",Positive,Joy,Pricing
+"Hi team, Delivery was super fast, my tablet arrived a day early. Thank you! That is my experience.",Positive,Joy,Delivery
+"Hi team, Love how fast and smooth the app is after the update!",Positive,Joy,Technical Problem
+"Hi team, Wow, my phone arrived much earlier than I expected! Please note this.",Positive,Surprise,Delivery
+I'm sad because the jacket looks nothing like the pictures. Just sharing my feedback.,Negative,Sadness,Product Quality
+"To be clear, This is unacceptable, my watch still hasn't been delivered after ten weeks! Just sharing my feedback.",Negative,Anger,Delivery
+"Hi team, They refuse to accept my return, I'm so angry about this!",Negative,Anger,Refund/Return
